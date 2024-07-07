@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+torch
+redis
+fastapi-limiter
+aiofiles
